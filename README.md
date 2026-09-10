@@ -8,7 +8,7 @@ Does legal reform on women's entrepreneurship and property rights actually trans
 **[Tableau workbook →](#)** (Tableau Public link)
 
 
-**[Read the full brief →](brief (1).md)**
+**[Read the full brief →](brief(1).md) https://github.com/lisauwonkunda/beyond-the-law-east-africa/blob/main/brief%20(1).md**
 
 ---
 

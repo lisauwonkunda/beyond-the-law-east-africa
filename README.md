@@ -20,32 +20,9 @@ Does legal reform on women's entrepreneurship and property rights actually trans
 4. **Legal reform does not predict ownership outcomes.** Kenya's legal scores rose more than any country in the sample while its ownership fell the most.
 5. **Neither does enforcement, credit access, or education.** Four independent mechanisms tested, none explain the pattern — consistent with Duflo (2012) and Jayachandran's research on social norms as the binding constraint formal reform doesn't reach.
 
-Full methodology, the four-stage pipeline breakdown, and a formal triangulation matrix are in [`brief (1).md`](brief.md).
 
 ---
 
-## Repository Structure
-
-```
-├── app/                          Streamlit dashboard
-│   ├── app.py
-│   ├── requirements.txt
-│   └── data/
-├── data/                         Full analysis outputs
-│   ├── country_year_panel.csv
-│   ├── full_country_comparison.csv
-│   ├── historical_ownership_trend.csv
-│   ├── governance_change_vs_ownership_change.csv
-│   ├── wbl2026_full_pillars.csv          Legal/Enforcement scores
-│   ├── enforcement_gap_2026.csv
-│   ├── female_business_borrowing.csv     Credit access (Findex)
-│   ├── education_vs_ownership.csv        Education stage
-│   ├── pipeline_data.csv                 All four stages, consolidated
-│   ├── esg_sourcing_score_final.csv
-│   └── tableau_extract.csv
-├── brief.md
-└── README.md
-```
 
 ## Data Sources
 

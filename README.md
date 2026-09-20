@@ -1,7 +1,7 @@
 # Beyond the Law
 ### Testing the Limits of Legal Reform for Women's Economic Inclusion in East Africa
 
-Does legal reform on women's entrepreneurship and property rights actually translate into real business ownership gains? This project builds a four-stage pipeline — Legal Rights → Enforcement → Credit Access → Education — across five East African economies (Kenya, Rwanda, Tanzania, Uganda, Ethiopia) using entirely real, publicly cited data, and finds that at every stage, for every country, it breaks down.
+Does legal reform on women's entrepreneurship and property rights actually translate into real business ownership gains? This project builds a four-stage pipeline (Legal Rights → Enforcement → Credit Access → Education) across five East African economies (Kenya, Rwanda, Tanzania, Uganda, Ethiopia) using entirely real, publicly cited data, and finds that at every stage, for every country, it breaks down.
 
 **[Live interactive dashboard →](#)** https://beyond-the-law-east-africa-crrukdpqf5hqculag6xzrt.streamlit.app/
 
